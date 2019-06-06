@@ -10230,7 +10230,7 @@
       "settings": {
         "title": "Cyprus Citizenship",
         "meta_descr": "Cyprus investment and citizenship",
-        "header_custom": "",
+        "header_custom": "<meta name=\"robots\" content=\"noindex, nofollow\" />",
         "footer_custom": "",
         "html_before": "",
         "order": 8
